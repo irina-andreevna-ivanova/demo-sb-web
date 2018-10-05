@@ -16,7 +16,6 @@ import java.util.Map;
  * *******************************
  */
 @Controller
-
 public class MyController {
 
     @RequestMapping("/")
